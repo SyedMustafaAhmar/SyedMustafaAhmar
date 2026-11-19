@@ -13,12 +13,12 @@ Technology Enthusiast | Exploring Artificial intelligence, Robotics & Engineerin
 
 ## 👨‍💻 About Me
 
-- 🎓 Student with an interest in technology and engineering.
+- 🎓 Student passionate about technology and engineering.
 - 💻 Exploring Computer Science and programming.
 - 🤖 Interested in Artificial Intelligence and Robotics.
 - ⚙️ Fascinated by automation and emerging technologies.
-- 🌱 Continuously learning and developing new skills.
-- 🎯 Focused on building practical technical projects.
+- 🌱 Continuously learning new technologies and developing skills.
+- 🎯 Aspiring to build innovative solutions through technology.
 
 ## 🔭 Areas of Interest
 
