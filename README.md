@@ -34,7 +34,7 @@ Technology Enthusiast | Exploring Artificial intelligence, Robotics & Engineerin
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 - Programming: Learning
@@ -48,7 +48,7 @@ Technology Enthusiast | Exploring Artificial intelligence, Robotics & Engineerin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/Top Lang/?username=SyedMustafaAhmar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-lang/?username=SyedMustafaAhmar&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🤝 Connect With Me
