@@ -41,7 +41,7 @@ Technology Enthusiast | Exploring Artificial intelligence, Robotics & Engineerin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMustafaAhmar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/HRML,C++/?username=SyedMustafaAhmar&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🤝 Connect With Me
