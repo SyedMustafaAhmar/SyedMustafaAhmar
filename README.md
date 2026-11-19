@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github_banner_1280x320.jpg" width="100%" />
+</p>
 
 <h1 align="center">Hi, I'm Syed Mustafa Ahmar 👋</h1>
 
